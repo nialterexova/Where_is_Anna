@@ -1,4 +1,0 @@
-﻿  Match.cpp
-c:\users\саша\source\repos\play\play\match.cpp(163): warning C4715: Match::shoot_for_goal: значение возвращается не при всех путях выполнения
-c:\users\саша\source\repos\play\play\match.cpp(212): warning C4715: Match::search: значение возвращается не при всех путях выполнения
-  Play.vcxproj -> C:\Users\Саша\source\repos\Play\Debug\Play.exe
