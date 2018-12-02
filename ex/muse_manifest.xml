@@ -1,0 +1,45 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1543727138859">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="3786674856" ref="кредиты:физическое-лицо:всевклады:вклады:юридическое-лицо:помощь:карты:без-имени-4:index"/>
+    <file name="_______.css" crc="247152694" ref="кредиты"/>
+    <file name="__________-____.css" crc="518511923" ref="физическое-лицо"/>
+    <file name="_________.css" crc="4231651390" ref="всевклады"/>
+    <file name="______.css" crc="6548750" ref="вклады"/>
+    <file name="___________-____.css" crc="65310319" ref="юридическое-лицо"/>
+    <file name="______1.css" crc="3956123419" ref="помощь"/>
+    <file name="_____.css" crc="182038929" ref="карты"/>
+    <file name="___-_____-4.css" crc="182038929" ref="без-имени-4"/>
+    <file name="index.css" crc="4271680585" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:физическое-лицо:юридическое-лицо:без-имени-4:кредиты:вклады:карты:всевклады:помощь"/>
+    <file name="museutils.js" crc="340535759" ref="index:физическое-лицо:юридическое-лицо:без-имени-4:кредиты:вклады:карты:всевклады:помощь"/>
+    <file name="whatinput.js" crc="86476730" ref="index:физическое-лицо:юридическое-лицо:без-имени-4:кредиты:вклады:карты:всевклады:помощь"/>
+    <file name="museconfig.js" crc="310584261" ref="index:физическое-лицо:юридическое-лицо:без-имени-4:кредиты:вклады:карты:всевклады:помощь"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:физическое-лицо:юридическое-лицо:без-имени-4:кредиты:вклады:карты:всевклады:помощь"/>
+    <file name="webpro.js" crc="4059564322" ref="помощь"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="помощь"/>
+  </folder>
+  <folder name="images">
+    <file name="bank_start-слой 1c.png" crc="240119701" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bank_start-слой 2c.png" crc="4032949613" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bank_start-слой 6c.png" crc="3835580674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3877035315" seo="true" mt="1543708657557" redirect="true"/>
+  <file name="физическое-лицо.html" crc="4193632989" seo="true" mt="1543713861725" redirect="true"/>
+  <file name="юридическое-лицо.html" crc="4153375981" seo="true" mt="1543708657557" redirect="true"/>
+  <file name="без-имени-4.html" crc="197688078" seo="true" mt="1543708657557" redirect="true"/>
+  <file name="кредиты.html" crc="208656768" seo="true" mt="1543708657557" redirect="true"/>
+  <file name="вклады.html" crc="3795343376" seo="true" mt="1543709645376" redirect="true"/>
+  <file name="карты.html" crc="248960754" seo="true" mt="1543708657557" redirect="true"/>
+  <file name="всевклады.html" crc="247018262" seo="true" mt="1543709790296" redirect="true"/>
+  <file name="помощь.html" crc="181112935" seo="true" mt="1543716328760" redirect="true"/>
+</manifest>
